@@ -11,4 +11,4 @@
 * __Network Forensics:__ Use Wireshark to analyze live malicious traffic on the wire
 * __Presentation:__ Report back all your findings to both the SOC manager and the Engineering Manager with appropriate analysis.
 
-##### To read through the individual reports you can access them through the [Defensive Report](.../juan-desu/Attack-Defense-Analysis-of-a-Vulnerable-Network/Defensive Report), [Offensive Report](.../juan-desu/Attack-Defense-Analysis-of-a-Vulnerable-Network/Offensicve Report) and [Network Report](.../juan-desu/Attack-Defense-Analysis-of-a-Vulnerable-Network/Network Report) files.
+##### To read through the individual reports you can access them through the [Defensive Report](/Attack-Defense-Analysis-of-a-Vulnerable-Network/ Defensive Report), [Offensive Report](Attack-Defense-Analysis-of-a-Vulnerable-Network/Offensive Report) and [Network Report](Network Report) files.
