@@ -1,11 +1,11 @@
 # Blue Team: Summary of Operations
 
 ## Table of Contents
-- Network Topology
-- Description of Targets
-- Monitoring the Targets
-- Patterns of Traffic & Behavior
-- Suggestions for Going Further
+* Network Topology
+* Description of Targets
+* Monitoring the Targets
+* Patterns of Traffic & Behavior
+* Suggestions for Going Further
 
 ### Network Topology
 
@@ -76,5 +76,3 @@ The logs and alerts generated during the assessment suggest that this network is
 - CPU Usage Monitor
   - **Patch**: Implement a Host Intrusion Prevention System to identify DOS attacks
   - **Why It Works**: The host-based IPS will stop malware from installing by running deep packet analysis
-
-
