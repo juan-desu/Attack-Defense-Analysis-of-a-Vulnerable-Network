@@ -51,9 +51,6 @@ mattijs.dervies
 
 185.243.115.84
 
-4. As a bonus, retrieve the desktop background of the Windows host.
-
-
 #### Illegal Downloads
 
 IT was informed that some users are torrenting on the network. The Security team does not forbid the use of torrents for legitimate purposes, such as downloading operating systems. However, they have a strict policy against copyright infringement.
