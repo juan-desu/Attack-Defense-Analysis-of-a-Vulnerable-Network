@@ -1,9 +1,7 @@
 # Attack, Defense & Analysis of a Vulnerable Network
 
 ## In this project's scenerio the role played is of a Security Engineer for X-CORP, supporting the SOC infrastructure.
-* The SOC analysts have noticed some discrepancies with alerting in the Kibana system and the manager has asked the Security Engineering team to investigate and confirm that newly created alerts are working.
-* If the alerts are working, the engineers need to monitor live traffic on the wire to detect any abnormalities that aren't reflected in the alerting system.
-* They are to report back all their findings to the manager with appropriate analysis.
+* The SOC analysts have noticed some discrepancies with alerting in the Kibana system and the manager has asked the Security Engineering team to investigate and confirm that newly created alerts are working. If the alerts are working, the engineers need to monitor live traffic on the wire to detect any abnormalities that aren't reflected in the alerting system. When finished report back all findings to the manager with appropriate analysis.
 
 ### Objectives
 * __Defensive Security:__ Implement alerts and thresholds in Elasticsearch Watcher
